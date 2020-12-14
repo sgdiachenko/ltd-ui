@@ -1,0 +1,8 @@
+.ltd-typography-p {
+	margin-top: 0;
+	margin-bottom: 0;
+	padding-bottom: 8px;
+	font-family: "OpenSans", sans-serif;
+	font-size: 12px;
+	line-height: 16px;
+}
